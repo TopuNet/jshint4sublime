@@ -1,0 +1,22 @@
+{
+  "name": "TopuNet-JsHintify",
+  "version": "1.0.1",
+  "description": "jshintify for sublime3 配置文件及使用说明",
+  "main": "jq/GrayScale.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TopuNet/jshintify.git"
+  },
+  "keywords": [
+    "topu.net"
+  ],
+  "author": "Topu.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TopuNet/jshintify/issues"
+  },
+  "homepage": "https://github.com/TopuNet/jshintify#readme"
+}

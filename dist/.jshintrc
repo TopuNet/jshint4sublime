@@ -1,0 +1,28 @@
+{
+    "undef": true,
+    "unused": true,
+    "predef": [
+        "$",
+        "window",
+        "document",
+        "navigator",
+        "location",
+        "console",
+        "define",
+        "BMap",
+        "BMAP_ANIMATION_BOUNCE",
+        "setTimeout",
+        "clearTimeout",
+        "setInterval",
+        "clearInterval",
+        "require",
+        "exports",
+        "escape",
+        "__dirname",
+        "express",
+        "Image",
+        "requirejs",
+        "auto_padding",
+        "Buffer"
+    ]
+}
