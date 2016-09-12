@@ -1,4 +1,4 @@
-# jshintify for sublime3 配置及使用方法 v1.0.1
+# jshintify for sublime3 配置及使用方法 v1.0.2
 ### 安装：npm install-TopuNet-JsHintify  
 
 文件结构：
@@ -46,6 +46,10 @@
 
 更新记录：
 --------------
+v1.0.2
+
+        1. 增加忽略项：process、module
+        2. 修改忽略项数组的排序，以后查找方便
 
 v1.0.1
 
