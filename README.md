@@ -1,5 +1,5 @@
-# jshintify for sublime3 配置及使用方法 v1.0.2
-### 安装：npm install-TopuNet-JsHintify  
+# jshint for sublime 配置及使用方法 v1.0.3
+### 安装：npm install-TopuNet-JsHint4Sublime  
 
 文件结构：
 -------------
@@ -10,7 +10,7 @@
 --------------
 
 1. node.js>npm install -g jshint
-1. 在sublime安装package：jshintify
+1. 在sublime安装package：JSHint
 1. 将 “npm目录\jshint.cmd” 加入到系统环境变量Path中
 
         如：C:\Users\Administrator\AppData\Roaming\npm\jshint.cmd
@@ -46,6 +46,11 @@
 
 更新记录：
 --------------
+v1.0.3
+
+        1. 从jshintify转到jshint
+        2. 修改Readme
+
 v1.0.2
 
         1. 增加忽略项：process、module
@@ -54,7 +59,3 @@ v1.0.2
 v1.0.1
 
         创建项目并发布
-
-参考文献：
---------------
-[jshintify.git](https://github.com/afterdesign/jshintify)
