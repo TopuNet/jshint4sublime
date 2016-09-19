@@ -19,6 +19,7 @@
         "exports",
         "escape",
         "express",
+        "fis",
         "Image",
         "location",
         "module",
