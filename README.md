@@ -1,4 +1,4 @@
-# jshint for sublime 配置及使用方法 v1.0.3
+# jshint for sublime 配置及使用方法 v1.0.4
 ### 安装：npm install-TopuNet-JsHint4Sublime  
 
 文件结构：
@@ -46,6 +46,10 @@
 
 更新记录：
 --------------
+v1.0.4
+
+        1. jshintrc文件增加expr规则（是否允许上下文为表达式），为true。——苏成闯 pull
+
 v1.0.3
 
         1. 从jshintify转到jshint

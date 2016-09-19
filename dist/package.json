@@ -1,6 +1,6 @@
 {
   "name": "TopuNet-JsHint4Sublime",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jshint for sublime 配置文件及使用说明",
   "main": "jq/GrayScale.js",
   "scripts": {
