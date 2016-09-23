@@ -19,8 +19,8 @@
         "exports",
         "escape",
         "express",
-        "fis",
         "Image",
+        "JRoll",
         "location",
         "module",
         "navigator",
@@ -29,6 +29,7 @@
         "require",
         "setTimeout",
         "setInterval",
+        "WeixinJSBridge",
         "window"
     ]
 }
