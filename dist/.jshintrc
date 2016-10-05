@@ -8,9 +8,8 @@
         "auto_padding",
         "BMap",
         "BMAP_ANIMATION_BOUNCE",
-        "BMap",
-        "BMAP_ANIMATION_BOUNCE",
         "Buffer",
+        "canvas_scale",
         "console",
         "clearTimeout",
         "clearInterval",
@@ -18,9 +17,11 @@
         "define",
         "exports",
         "escape",
+        "EXIF",
         "express",
+        "fis",
+        "FileReader",
         "Image",
-        "JRoll",
         "location",
         "module",
         "navigator",
@@ -29,7 +30,6 @@
         "require",
         "setTimeout",
         "setInterval",
-        "WeixinJSBridge",
         "window"
     ]
 }
