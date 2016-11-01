@@ -23,6 +23,7 @@
         "FileReader",
         "Image",
         "location",
+        "JRoll",
         "module",
         "navigator",
         "process",
