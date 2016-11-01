@@ -1,4 +1,4 @@
-# jshint for sublime 配置及使用方法 v1.0.7
+# jshint for sublime 配置及使用方法 v1.0.8
 ### 安装：npm install-TopuNet-JsHint4Sublime  
 
 文件结构：
