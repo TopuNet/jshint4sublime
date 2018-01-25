@@ -6,6 +6,7 @@
         "$",
         "__dirname",
         "auto_padding",
+        "Base_meta",
         "BMap",
         "BMAP_ANIMATION_BOUNCE",
         "Buffer",
@@ -31,6 +32,8 @@
         "require",
         "setTimeout",
         "setInterval",
-        "window"
+        "window",
+        "WeixinJSBridge",
+        "wx"
     ]
 }

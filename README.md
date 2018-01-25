@@ -1,4 +1,4 @@
-# jshint for sublime 配置及使用方法 v1.0.8
+# jshint for sublime 配置及使用方法 v1.1.1
 ### 安装：npm install-TopuNet-JsHint4Sublime  
 
 文件结构：
@@ -46,6 +46,12 @@
 
 更新记录：
 --------------
+v1.1.1
+
+        1. 不知道忽略项里Base_meta和WeixinJSBridge为什么没了，重新加上了。
+        2. 增加忽略项：wx
+        3. 规范版本号。新增忽略项直接改子版本号
+        
 v1.0.8
 
         1. 不知道忽略项里JRoll为什么没了，重新加上了。
